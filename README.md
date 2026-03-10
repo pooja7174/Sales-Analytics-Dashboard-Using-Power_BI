@@ -1,4 +1,5 @@
 📊 Sales Analysis Dashboard using Power BI
+
 📌 Project Overview
 
 This project presents an interactive Sales Analysis Dashboard built using Power BI to analyze the performance of McDonald's menu items. The dashboard helps identify top-performing products, category-wise sales trends, and customer ordering patterns using data visualization and business intelligence techniques.
