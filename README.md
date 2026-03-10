@@ -210,4 +210,5 @@ DAX Calculations
 Interactive Reporting
 
 📷 Dashboard Preview
-![Dashboard]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-03-10 185239.png")
+<img width="1127" height="631" alt="Screenshot 2026-03-10 185239" src="https://github.com/user-attachments/assets/58f4aa07-6ddd-4639-942f-ccf66c5ccfa9" />
+
