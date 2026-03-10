@@ -208,3 +208,6 @@ Dashboard Design
 DAX Calculations
 
 Interactive Reporting
+
+📷 Dashboard Preview
+![Dashboard]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-03-10 185239.png")
