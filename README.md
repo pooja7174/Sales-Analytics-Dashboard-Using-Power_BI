@@ -21,6 +21,7 @@ Enable interactive exploration of sales data
 Build a business-friendly dashboard for decision making
 
 📊 Dashboard Features
+
 1️⃣ KPI Overview
 
 The dashboard includes key performance indicators that provide a quick summary of business performance:
