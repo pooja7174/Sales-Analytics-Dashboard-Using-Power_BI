@@ -8,6 +8,10 @@ The objective of this project is to transform raw sales data into actionable ins
 
 The dashboard analyzes 5,000+ customer orders across 32 menu items and 10 product categories, providing a clear overview of sales distribution and product performance.
 
+📷 Dashboard Preview
+<img width="1127" height="631" alt="Screenshot 2026-03-10 185239" src="https://github.com/user-attachments/assets/58f4aa07-6ddd-4639-942f-ccf66c5ccfa9" />
+
+
 🎯 Project Objectives
 
 Analyze overall sales performance of menu items
@@ -208,7 +212,3 @@ Dashboard Design
 DAX Calculations
 
 Interactive Reporting
-
-📷 Dashboard Preview
-<img width="1127" height="631" alt="Screenshot 2026-03-10 185239" src="https://github.com/user-attachments/assets/58f4aa07-6ddd-4639-942f-ccf66c5ccfa9" />
-
